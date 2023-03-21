@@ -32,8 +32,6 @@ def circulate():
 ## Output:
 ![ex 2](https://user-images.githubusercontent.com/119393935/226510859-d6272453-72fb-4762-a951-d63aa10bb979.png)
 
-
-
 ## Result:
 Thus, a python program to circulate the n variables using function concept is
 successfully executed and displayed.
