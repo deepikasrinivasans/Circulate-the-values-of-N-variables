@@ -30,7 +30,7 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-![ex 2](https://user-images.githubusercontent.com/119393935/226510859-d6272453-72fb-4762-a951-d63aa10bb979.png)
+![ex2](https://user-images.githubusercontent.com/119393935/226612593-4a7c0116-8e1e-4806-801f-a3cf530bb800.png)
 
 ## Result:
 Thus, a python program to circulate the n variables using function concept is
